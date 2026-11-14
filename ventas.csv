@@ -1,0 +1,19 @@
+Fecha,Producto,Categoria,Cantidad,Precio,Region,Vendedor
+2024-01-05,Laptop Pro,Electrónica,3,1250,Norte,Ana
+2024-01-08,Mouse Inalámbrico,Accesorios,12,25,Sur,Carlos
+2024-01-12,Monitor 27",Electrónica,5,320,Centro,Ana
+2024-01-15,Teclado Mecánico,Accesorios,8,85,Norte,Luis
+2024-01-20,Laptop Pro,Electrónica,2,1250,Sur,Carlos
+2024-02-03,Auriculares,Accesorios,15,60,Centro,Ana
+2024-02-07,Monitor 27",Electrónica,4,320,Norte,Luis
+2024-02-14,Laptop Pro,Electrónica,6,1250,Centro,Carlos
+2024-02-18,Mouse Inalámbrico,Accesorios,20,25,Sur,Ana
+2024-03-01,Teclado Mecánico,Accesorios,10,85,Norte,Luis
+2024-03-05,Auriculares,Accesorios,9,60,Centro,Carlos
+2024-03-12,Laptop Pro,Electrónica,3,1250,Sur,Ana
+2024-03-18,Monitor 27",Electrónica,7,320,Norte,Luis
+2024-03-22,Mouse Inalámbrico,Accesorios,18,25,Centro,Carlos
+2024-04-02,Teclado Mecánico,Accesorios,6,85,Sur,Ana
+2024-04-08,Auriculares,Accesorios,11,60,Norte,Luis
+2024-04-15,Laptop Pro,Electrónica,4,1250,Centro,Carlos
+2024-04-20,Monitor 27",Electrónica,5,320,Sur,Ana
